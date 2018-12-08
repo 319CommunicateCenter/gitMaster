@@ -1,0 +1,6 @@
+[submodule "gitModule1"]
+	path = gitModule1
+	url = https://github.com/319CommunicateCenter/gitModule1.git
+[submodule "gitModule2"]
+	path = gitModule2
+	url = https://github.com/319CommunicateCenter/gitModule2.git
